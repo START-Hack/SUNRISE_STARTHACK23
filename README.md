@@ -5,8 +5,12 @@
 Welcome to the StartHack of 2023.
 
 We'r Sunrise, specifically the Tribe "Wilmaa" within Sunrise. We've build yallo TV https://yallo.tv and Live Mysports https://live.mysports.ch. Our development ist mainly focused on OTT/TV.
-TV is not dead! There is still a lot of exlcusive TV Content people watch and enjoy. To name just some: Live sports, Batchelor etc. our Middleware and Clients are custom made by us. On top of that we have a lot of realtime Sports Data.
-This is an opportunity to do something with this capabilities. How can we bring people together to enjoy and share TV moments? Groupwatch/Watchparties is just the beginning! WE CAN DO MORE!
+
+TV is not dead! There is still a lot of exlcusive TV Content people watch and enjoy. To name just some: Live sports, Batchelor etc. 
+
+Our Middleware and Clients are custom made by us. On top of that we have a lot of realtime Sports Data.This is an opportunity to do something with this capabilities.
+
+How can we bring people together to enjoy and share TV moments? Groupwatch/Watchparties is just the beginning! WE CAN DO MORE!
 
 Have fun and may the force be with you :)
 
@@ -20,9 +24,9 @@ The current version of the slides are here: https://docs.google.com/presentation
 
 ## <p align="center"> Further Information: </p>
 
-We have our custom made Middleware with which we have full control of the whole TV Environment. On top of that our clients are build 100% within our team and establish a websocket connection to our Middlware. This Websocket connection is bi-directional. Our Middleware can actively send data to connected clients where the clients can also send data to the backend (and other clients).
+We have our custom made Middleware with which we have full control of the whole TV Environment. On top of that our clients are build 100% within our team and all the clients do establish a websocket connection to our Middlware. This Websocket connection is bi-directional. Our Middleware can actively send data to connected clients where the clients can also send data to the backend (and other clients trough the middleware).
 
-Besides that we have Google Dataflow Pipelines which are processing in realtime live sports data. We know when a Goal, Foul, Period change happends. At the moment we'r not doing too much with this data. This is an opportunity! 
+Besides that we have Google Dataflow Pipelines which are processing in realtime live sports data. We know when a Goal, Foul, Period change happends. At the moment we'r not doing too much with this data.
 
 
 ## <p align="center"> Judging Criteria: </p>
