@@ -1,4 +1,6 @@
-# <p align="center"> Sunrise StartHack 2023 </p>
+# <p align="center"> Join the Revolution: Sunrise TV's Search for the Ultimate Social TV Experience </p>
+
+<img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/120366987/226586041-0691e4eb-4521-4695-abc9-182337e5ac7a.png">
 
 ## <p align="center"> Case Introduction: </p>
 
@@ -31,9 +33,9 @@ Besides that we have Google Dataflow Pipelines which are processing in realtime 
 
 ## <p align="center"> Judging Criteria: </p>
 
-* creativity
-* feasibility
-* added value for our customers
+* Creativity
+* Feasibility
+* Added value for our customers
 
 ## <p align="center"> Point of Contact: </p>
 
