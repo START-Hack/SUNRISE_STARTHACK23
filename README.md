@@ -3,13 +3,16 @@
 ## <p align="center"> Case Introduction: </p>
 
 Welcome to the StartHack of 2023.
-In this repository is our pitch and the slides of the deepdive session. If you have questions we'r either at our booth or on discord channel #sunrise or to reach out directly to me sunrise_tom#6562
-Have fun and may the force be with you :)
 
+We'r Sunrise, specifically the Tribe "Wilmaa" within Sunrise. We've build yallo TV https://yallo.tv and Live Mysports https://live.mysports.ch. Our development ist mainly focused on OTT/TV.
+TV is not dead! There is still a lot of exlcusive TV Content people watch and enjoy. To name just some: Live sports, Batchelor etc. our Middleware and Clients are custom made by us. On top of that we have a lot of realtime Sports Data.
+This is an opportunity to do something with this capabilities. How can we bring people together to enjoy and share TV moments? Groupwatch/Watchparties is just the beginning! WE CAN DO MORE!
+
+Have fun and may the force be with you :)
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
+The Sliedes of the Pitch are here: https://github.com/START-Hack/SUNRISE_STARTHACK23/raw/main/Pitch.pdf
 
 ## <p align="center"> Deep Dive Slides: </p>
 
@@ -17,16 +20,16 @@ The current version of the slides are here: https://docs.google.com/presentation
 
 ## <p align="center"> Further Information: </p>
 
-tbd
+We have our custom made Middleware with which we have full control of the whole TV Environment. On top of that our clients are build 100% within our team and establish a websocket connection to our Middlware. This Websocket connection is bi-directional. Our Middleware can actively send data to connected clients where the clients can also send data to the backend (and other clients).
 
-##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit
+Besides that we have Google Dataflow Pipelines which are processing in realtime live sports data. We know when a Goal, Foul, Period change happends. At the moment we'r not doing too much with this data. This is an opportunity! 
 
 
 ## <p align="center"> Judging Criteria: </p>
 
-tbd
+* creativity
+* feasability
+* added value for our customers
 
 ## <p align="center"> Point of Contact: </p>
 
@@ -47,3 +50,5 @@ Sunrise_Jorge#3879
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
 ### Prize Name
+
+We have some cool electric scooters for the best Team.
