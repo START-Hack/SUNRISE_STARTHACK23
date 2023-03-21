@@ -32,7 +32,7 @@ Besides that we have Google Dataflow Pipelines which are processing in realtime 
 ## <p align="center"> Judging Criteria: </p>
 
 * creativity
-* feasability
+* feasibility
 * added value for our customers
 
 ## <p align="center"> Point of Contact: </p>
