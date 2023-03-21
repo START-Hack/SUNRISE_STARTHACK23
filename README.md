@@ -37,7 +37,7 @@ Besides that we have Google Dataflow Pipelines which are processing in realtime 
 
 ## <p align="center"> Point of Contact: </p>
 
-During the Hack we'r either at our booth in the HackHall or availble on discord. On Discord we'r either in the #sunrise channel or directly:
+During the Hack we're either at our booth in the Hack Hall or available on discord. On Discord we're either in the #sunrise channel or directly:
 
 Myself, Head of Technology, Pitch presenter 
 sunrise_tom#6562
