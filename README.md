@@ -57,4 +57,4 @@ Sunrise_Jorge#3879
 
 ### Prize Name
 
-We have some cool electric scooters for the best Team.
+We have some cool VR Googles for the best Team.
