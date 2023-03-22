@@ -41,7 +41,7 @@ Besides that we have Google Dataflow Pipelines which are processing in realtime 
 
 During the Hack we're either at our booth in the Hack Hall or available on discord. On Discord we're either in the #sunrise channel or directly:
 
-Myself, Head of Technology, Pitch presenter 
+Myself, Tom, Head of Technology, Pitch presenter 
 sunrise_tom#6562
 
 Philipp, Tech Lead Backend
