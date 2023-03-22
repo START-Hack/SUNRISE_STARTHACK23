@@ -6,7 +6,7 @@
 
 Welcome to the StartHack of 2023.
 
-We'r Sunrise, specifically the Tribe "Wilmaa" within Sunrise. We've build yallo TV https://yallo.tv and Live Mysports https://live.mysports.ch. Our development ist mainly focused on OTT/TV.
+We're Sunrise, specifically the Tribe "Wilmaa" within Sunrise. We've build yallo TV https://yallo.tv and Live Mysports https://live.mysports.ch. Our development ist mainly focused on OTT/TV.
 
 TV is not dead! There is still a lot of exlcusive TV Content people watch and enjoy. To name just some: Live sports, Batchelor etc. 
 
